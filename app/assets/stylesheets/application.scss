@@ -84,3 +84,26 @@ main {
 .kitten {
   margin-bottom: 1em;
 }
+
+.categorization-link {
+  background: navy;
+  color: white;
+  padding: .5em 1em;
+  margin: 1em;
+  border: black;
+}
+
+.kitten-categories {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  li {
+    padding: 0.5em 0;
+  }
+}
+
+.kitten-image {
+  float: left;
+  margin-right: 1em;
+}
